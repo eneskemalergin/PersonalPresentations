@@ -1,34 +1,64 @@
-# PersonalPresentations
+# Presentations
 
-This repository contains all the presentations that I gave, in IPython notebook format 
+This repository contains all the presentations that Bioinformatics Lab members gave, in IPython notebook format. 
 
-Here is a short guide about how to convert the Ipython into the actual presentation format in my blog. In my blog, which is forked from [Stephan's Blog](http://stephen-brennan.com/talks/), I use Reveal.js which works with markdown files
+## List of Presentation
 
-### Step 1:
+### Fatih Enes Kemal
 
-- Convert Ipython file into the markdown
+1. [Algorithms_Design_Patterns](https://github.com/eneskemalergin/Presentations/blob/master/Algorithms_Design_Patterns.ipynb)
+2. [Presentations_with_Ipython](https://github.com/eneskemalergin/Presentations/blob/master/Presentations_with_Ipython.ipynb)
 
-```
-$ jupyter nbconvert <name.ipynb> --to markdown
-```
+### Nadide
 
-- It will create a markdown file from the ipython notebook. 
+1. []()
 
-> BTW, you can directly make a presentation by using nbconvert. You simply;
+### Medina 
+
+1. []()
+ 
+
+### Dr. Aydin
+
+1. []()
+
+### Dr. Eser
+
+1. []()
+
+
+# Tutorials
+
+## How to Convert Ipython file into the slides
 
 ```
 $ jupyter nbconvert <name.ipynb> --to slides --post serve
 ```
 
-- Then it will run on the local host perfectly.  (If you don't know how to make slides in notebook check out my [presentation]() on that)
+- Then it will run on the local host perfectly.  (If you don't know how to make slides in notebook check out my [presentation](https://github.com/eneskemalergin/PersonalPresentations/blob/master/Presentations_with_Ipython.ipynb) on that)
 
-### Step 2:
+## Setup-Jupyter
 
-- Ok, now we have the markdown, we need to say the render where the slides end and where they change type...
+### For Linux :
+```
+sudo apt-get install python-pip
+pip install jupyter
+```
+
+### For Mac :
+```
+sudo easy_install pip
+pip install jupyter
+```
+
+### For Windows:
+Download the latest versions of the python 2/3 and they will come with pip installed, then:
 
 ```
-{{slide}}
-
+pip install jupyter 
+# OR
+pip3 install jupyter
 ```
 
-> Will continue to edit
+
+
