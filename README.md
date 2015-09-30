@@ -20,11 +20,24 @@ This repository contains all the presentations that Bioinformatics Lab members g
 
 ### Dr. Aydin
 
-1. []()
+1. [Neural Networks 101]() 
+
+<img src="https://github.com/eneskemalergin/Presentations/blob/master/images/NeuralNetworks101.jpg" width="100">
+ 
+__Outline:__
+
+- Beginner’s Guide to Neural Networks
+- Simulation of Neural Networks
+- Implementing a Neural Network from Scratch in Python
+
+
+
 
 ### Dr. Eser
 
 1. []()
+
+
 
 
 # Tutorials
