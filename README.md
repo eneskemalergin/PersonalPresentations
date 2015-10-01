@@ -6,12 +6,23 @@ This repository contains all the presentations that Bioinformatics Lab members g
 
 ### Fatih Enes Kemal
 
-1. [Algorithms_Design_Patterns](https://github.com/eneskemalergin/Presentations/blob/master/Algorithms_Design_Patterns.ipynb)
-2. [Presentations_with_Ipython](https://github.com/eneskemalergin/Presentations/blob/master/Presentations_with_Ipython.ipynb)
+1. [Presentations_with_Ipython](https://github.com/eneskemalergin/Presentations/blob/master/Presentations_with_Ipython.ipynb)
+
+__Outline:__
+
+- What is IPython, and how to install it.
+- How to make presentations with IPython
+- Running Presentations Locally
+- Extra: How do I put them in my blog.
 
 ### Nadide
 
-1. []()
+1. [Algorithms_Design_Patterns](https://github.com/eneskemalergin/Presentations/blob/master/Algorithms_Design_Patterns.ipynb)
+
+__Outline:__
+
+- General Algorithm Types
+- Implementation examples with Hands-on exercises
 
 ### Medina 
 
