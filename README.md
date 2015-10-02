@@ -31,7 +31,7 @@ __Outline:__
 
 ### Dr. Aydin
 
-1. [Neural Networks 101]() 
+1. [Neural Networks 101](https://github.com/eneskemalergin/Presentations/blob/master/Neural_Networks.ipynb) 
 
 <img src="https://github.com/eneskemalergin/Presentations/blob/master/images/NeuralNetworks101.jpg" width="100">
  
