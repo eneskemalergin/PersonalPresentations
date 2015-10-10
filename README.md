@@ -1,19 +1,14 @@
 # Presentations
 
-This repository contains all the presentations that Bioinformatics Lab members gave, in IPython notebook format. 
+This repository contains all the presentations that Bioinformatics Lab members gave, in IPython notebook format.
 
 ## List of Presentation
 
 ### Fatih Enes Kemal
 
 1. [Presentations_with_Ipython](https://github.com/eneskemalergin/Presentations/blob/master/Presentations_with_Ipython.ipynb)
+2. [Biology_with_Python](https://github.com/eneskemalergin/Presentations/blob/master/Biology_with_Python.ipynb)
 
-__Outline:__
-
-- What is IPython, and how to install it.
-- How to make presentations with IPython
-- Running Presentations Locally
-- Extra: How do I put them in my blog.
 
 ### Nadide
 
@@ -24,17 +19,17 @@ __Outline:__
 - General Algorithm Types
 - Implementation examples with Hands-on exercises
 
-### Medina 
+### Medina
 
 1. []()
- 
+
 
 ### Dr. Aydin
 
-1. [Neural Networks 101](https://github.com/eneskemalergin/Presentations/blob/master/Neural_Networks.ipynb) 
+1. [Neural Networks 101](https://github.com/eneskemalergin/Presentations/blob/master/Neural_Networks.ipynb)
 
 <img src="https://github.com/eneskemalergin/Presentations/blob/master/images/NeuralNetworks101.jpg" width="100">
- 
+
 __Outline:__
 
 - Beginner’s Guide to Neural Networks
@@ -79,10 +74,7 @@ pip install jupyter
 Download the latest versions of the python 2/3 and they will come with pip installed, then:
 
 ```
-pip install jupyter 
+pip install jupyter
 # OR
 pip3 install jupyter
 ```
-
-
-
