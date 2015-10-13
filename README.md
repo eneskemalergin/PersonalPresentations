@@ -17,7 +17,7 @@ This repository contains all the presentations that Bioinformatics Lab members g
 
 ### Medina
 
-1. []()
+1. ['Clock' gene](https://github.com/eneskemalergin/Presentations/blob/master/Clock_Genes.ipynb)
 
 
 ### Dr. Aydin
