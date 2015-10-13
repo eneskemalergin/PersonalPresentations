@@ -1,0 +1,271 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "#                              'CLOCK' GENES\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "_<center>Presented by Medina Colic</center>_\n",
+    "                                     \n",
+    "                                     \n",
+    "                                    "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![Clock Gene](http://cognitionstudio.com/sites/default/files/work/projects/CLOCK_gene_prfSep12.jpg)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "## What are clock genes?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "### Synonymus \n",
+    "* Circadian Clock Genes "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "### Definition \n",
+    " Any of a number of genes that interact with each other to make up an auto-regulatory feedback loop, \n",
+    " in which its activation and repression cycle takes about one day.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "##                               When and how they were discovered?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "* 1970 - mutagenic substance in fruit fly\n",
+    "* 1980 - mutations occured on the same gene\n",
+    "    - that gene named - period (abbreviation: per)\n",
+    "* 1990 - identified second gene with the same properties\n",
+    "    - the gene was labeled as timeless (abrevviation: tim)\n",
+    "* mid of 1990 - proteins PER and TIM of previously define gene bind together\n",
+    "* 1997 - CLOCK gene discovered in mice\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "##                                        How do clock genes work?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "The genes and proteins interact with each other to produce daily fluctuations in protein levels. The central player is the per gene, which codes for PER protein. \n",
+    " \n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "* in fruit flies - PER and TIM (CRY- ligth recepting protein, directly interacts with TIM)\n",
+    "* in mice - PER/CRY complex\n",
+    "* CRY preforms two opposite functions: \n",
+    "     - activating the transcription of the per gene indirectly in fruit flies but \n",
+    "     - inhibiting this same gene in mice. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "##                                         Why they are important?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "* Clock Genes control Circadian rhythms\n",
+    "\n",
+    "The levels of these proteins rise and fall in rhythmic patterns. These oscillating biochemical signals control various functions, including when we sleep and rest, and when we are awake and active. Circadian rhythms also control body temperature, heart activity, hormone secretion, blood pressure, oxygen consumption, metabolism, and many other functions."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "##                                       Where they are located?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "* Master cardian clock is located in a region called the suprachiasmatic nuclei (SCN) in the hypothalamus of the brain\n",
+    "   - SCN is made up of two tiny clusters of several thousand nerve cells that \"tell time\" based on external cues, such as light and darkness. The SCN regulates sleep, metabolism, and hormone production.\n",
+    "* Other local gene-operated clocks are found in different organs;\n",
+    "    - liver\n",
+    "    - lung\n",
+    "    - connective tissue\n",
+    "    - muscles"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "##                              What is their role in other diseases?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "* cardiometabolic disease \n",
+    "* Alzhaimer\n",
+    "* Diabetes\n",
+    "* Obesity \n",
+    "* etc. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "subslide"
+    }
+   },
+   "source": [
+    "Deeper knowledge and research should will improve the stopping and preventing the evolutions of these diseases."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
+    "## How to identify them using bioinformatic \n",
+    "##                              techniques?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "celltoolbar": "Slideshow",
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.5.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
