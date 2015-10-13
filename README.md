@@ -14,10 +14,6 @@ This repository contains all the presentations that Bioinformatics Lab members g
 
 1. [Algorithms_Design_Patterns](https://github.com/eneskemalergin/Presentations/blob/master/Algorithms_Design_Patterns.ipynb)
 
-__Outline:__
-
-- General Algorithm Types
-- Implementation examples with Hands-on exercises
 
 ### Medina
 
@@ -26,15 +22,8 @@ __Outline:__
 
 ### Dr. Aydin
 
-1. [Neural Networks 101](https://github.com/eneskemalergin/Presentations/blob/master/Neural_Networks.ipynb)
-
-<img src="https://github.com/eneskemalergin/Presentations/blob/master/images/NeuralNetworks101.jpg" width="100">
-
-__Outline:__
-
-- Beginner’s Guide to Neural Networks
-- Simulation of Neural Networks
-- Implementing a Neural Network from Scratch in Python
+1. [Neural Networks 101](https://github.com/eneskemalergin/Presentations/blob/master/Neural_Networks.ipynb) <img src="https://github.com/eneskemalergin/Presentations/blob/master/images/NeuralNetworks101.jpg" width="100">
+2. 
 
 
 
